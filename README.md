@@ -1,5 +1,5 @@
 # ZUV
-<img height='100px' src="https://drive.google.com/file/d/1cPurx-QfOUOJMCk4Pmjtj2wHK9-Oov6c/view?usp=sharing" />
+<img height='100px' src="client/public/zuvlogo.png" />
 
 ## 💼 Made by [Romit Ganjoo](https://github.com/romitganjoo)
 
