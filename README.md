@@ -3,6 +3,8 @@
 
 ## 💼 Made by [Romit Ganjoo](https://github.com/romitganjoo)
 
+## Link to [Google Drive](https://docs.google.com/document/d/10rQMyI-6uGv6Ki0c0zjzwkJzsZ6A4u_ymr-MUNU_noI/edit?usp=drive_link)
+
 ### Zuv is a dating web application exclusively for Kashmiri Indian Americans
 
 ## 📚 Technologies used:
