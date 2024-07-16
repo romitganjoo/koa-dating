@@ -1,7 +1,7 @@
 # ZUV
 <img height='100px' src="https://drive.google.com/file/d/1cPurx-QfOUOJMCk4Pmjtj2wHK9-Oov6c/view?usp=sharing" />
 
-## 💼 Made by [Romit Ganjoo](https://github.com/SeanTroy)
+## 💼 Made by [Romit Ganjoo](https://github.com/romitganjoo)
 
 ### Zuv is a dating web application exclusively for Kashmiri Indian Americans
 
